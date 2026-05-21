@@ -46,7 +46,7 @@ class Kortele(BazineKortele):
         
 1.4 Polimorfizmas (Polymorphism)
 Polimorfizmas leidžia skirtingoms klasėms turėti tą patį metodo pavadinimą, tačiau skirtingą elgesį. gauti_reiksme() metodas yra apibrėžtas abstrakčioje klasėje, o kiekviena paveldinčioji klasė gali jį įgyvendinti skirtingai.
-# Abstrakti klasė apibrėžia sąsają:
+Abstrakti klasė apibrėžia sąsają:
 class BazineKortele(ABC):
     @abstractmethod
     def gauti_reiksme(self):
