@@ -1,4 +1,4 @@
-Atminties žaidimas (,,Memory game") – OOP Kursinis darbas
+# Atminties žaidimas (,,Memory game") – OOP Kursinis darbas
 
 Įvadas
 Kas yra ši programa?
